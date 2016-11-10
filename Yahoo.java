@@ -23,8 +23,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Yahoo {
 	 WebDriver driver=new ChromeDriver();
 	 String Baseurl="https://www.yahoo.com/";
-	 String email="ishraqe.manjur@yahoo.com";
-	 String password="blahblahpassword";
+	 String email="your mail";
+	 String password="your password";
 	 String mailTo="exmple@gmail.com",subject="Something as you like",message="Few lines about your plan for next week";
 	 String fileUrl="";
 	 

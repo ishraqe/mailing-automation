@@ -21,6 +21,9 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Yahoo {
+	
+	//System.setProperty("webdriver.chrome.driver",
+		         //  "/home/ish/chromedriver");
 	 WebDriver driver=new ChromeDriver();
 	 String Baseurl="https://www.yahoo.com/";
 	 String email="your mail";
